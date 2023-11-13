@@ -52,6 +52,12 @@ const ActionButtons = () => {
                                         Features
                                     </Link>
                                     <Link
+                                        href={'/product'}
+                                        passHref
+                                    >
+                                        Products
+                                    </Link>
+                                    <Link
                                         href={'/contact'}
                                         passHref
                                     >
