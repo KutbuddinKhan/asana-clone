@@ -40,7 +40,7 @@ const ActionButtons = () => {
                                         Get Started
                                     </Link>
                                     <Link
-                                        href={'/'}
+                                        href={'/pricing'}
                                         passHref
                                     >
                                         Pricing
